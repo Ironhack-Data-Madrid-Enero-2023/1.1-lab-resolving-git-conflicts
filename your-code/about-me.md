@@ -6,4 +6,3 @@ i want to learn data analytics and spanish+
 
 ml engineer
 i have prioir experience 
-
