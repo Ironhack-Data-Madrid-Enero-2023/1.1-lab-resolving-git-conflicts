@@ -6,6 +6,7 @@
 
 # Why am I here --> Para aprender, reciclarme y encontrar un buen trabajo.
 
+<<<<<<< HEAD
 * What has brought you to Ironhack? --> Me echaron de mi trabajo recientemente.
 * What knowledge/skills do you expect to learn in this bootcamp? --> Analizar datos de manera eficiente y saber contar historias con ellos.
 
