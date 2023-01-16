@@ -1,0 +1,36 @@
+[33mcommit a7e68a0ca087cb2e8d5340c11551fc6a0b4a7d8b[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: a5d4f8d 8ffbc0c
+Author: AxelCrypto <axelgirougarcia@gmail.com>
+Date:   Mon Jan 16 18:58:34 2023 +0100
+
+    Merge branch 'main' of https://github.com/AxelCrypto/1.1-lab-resolving-git-conflicts
+
+[33mcommit a5d4f8da372648af9e4e74ece39d565317b72a89[m
+Author: AxelCrypto <axelgirougarcia@gmail.com>
+Date:   Mon Jan 16 18:57:45 2023 +0100
+
+    Add hola main to about-me.md
+
+[33mcommit 8ffbc0cc012c695dabafbdd6ac98ea8f06ed0532[m
+Author: Axel G <axelgirougarcia@gmail.com>
+Date:   Mon Jan 16 13:32:03 2023 +0100
+
+    hey
+
+[33mcommit b39a99ad3c76c3a0f70df70b478359859b8abe49[m
+Author: Axel G <axelgirougarcia@gmail.com>
+Date:   Mon Jan 16 12:34:12 2023 +0100
+
+    status.txt
+
+[33mcommit c5d8acf681eb159318d46943fb188a587ee79dcd[m
+Author: Oriana Ampuero <104844887+OrianAmpuero@users.noreply.github.com>
+Date:   Mon Jan 16 11:15:19 2023 +0100
+
+    Add files via upload
+
+[33mcommit 70c6f0ccd708e1231d7853d37ae40f86d5a15152[m
+Author: Oriana Ampuero <104844887+OrianAmpuero@users.noreply.github.com>
+Date:   Mon Jan 16 11:14:08 2023 +0100
+
+    Initial commit

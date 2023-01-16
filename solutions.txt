@@ -1,0 +1,71 @@
+Step 1 - Check Local Branch Status
+cd C:\Users\axell\Documents\IronHack\1.1-lab-resolving-git-conflicts
+git status
+
+Step 3 - Pull Latest Changes From the Remote Branch
+git pull origin master
+
+Step 5 - Create Conflicting Changes
+
+Primera parte: 
+
+echo "Hola" >> C:\Users\axell\Documents\IronHack\1.1-lab-resolving-git-conflicts\your-code\about-me.md
+git add .
+git commit -m "Upload"
+git push
+
+Secunda Parte : 
+git log
+
+Tercera Parte : 
+git reset --hard a7e68a0ca087cb2e8d5340c11551fc6a0b4a7d8b
+
+Cuarta Parte : 
+git checkout -b lab-resolving-git-conflicts
+
+Quinta Parte: On the new branch, open your-code/about-me.md, remove everything in the file and replace with an introduction about yourself.
+
+code your-code/about-me.md
+
+# Hi, I'm Axel. I'm from France. I promote Bitcoin and Macro on social medias. 
+# After the bootcamp I plan working on data analysis and, on the side, continue promoting bitcoin on social medias
+# My carreer goal is to build my own company and own as much bitcoins as I can.
+
+Save
+
+
+Parte 6 : Now, add the updated your-code/about-me.md file to git and commit and let's assume the ID of the new commit is 338cc201764793e1896744e8fd575e3c09c97a09. Now execute git pull origin master and Git will report you have a conflict that prevents you from merging the branches. Your Git tree currently looks like below.
+
+git add your-code/about-me.md
+git commit -m "Introduce myself in about-me.md"
+git push origin lab-resolving-git-conflictsV2
+
+
+Parte 6: Conflicto:  
+git pull origin main
+From https://github.com/AxelCrypto/1.1-lab-resolving-git-conflicts
+ * branch            main       -> FETCH_HEAD
+Auto-merging your-code/about-me.md
+CONFLICT (content): Merge conflict in your-code/about-me.md
+Automatic merge failed; fix conflicts and then commit the result.
+
+
+Step 6 : Step 6 - Resolve Conflicts
+
+code your-code/about-me.md
+#I changed the text which conflicted
+ 
+git commit -m "guess it should work"
+git push --set-upstream origin lab-resolving-git-conflictsV2
+
+#Checking if all good: 
+git pull origin main
+
+Result: "Already up to date."
+
+
+Step 7 - Commit and push Changes
+ git add  your-code/about-me.md
+git commit -m "Resolving conflicts with master branch."
+git push
+Result: "Everything up-to-date"
