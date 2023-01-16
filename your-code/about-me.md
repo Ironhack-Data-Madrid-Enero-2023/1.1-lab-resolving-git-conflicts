@@ -14,3 +14,5 @@
 * Which industry will you seek employment in? --> Alguna empresa relacionada con la música.
 * What will your future role look like? --> Analista de datos senior con resposabilidades varias
 * What is your career goal? --> Ser una persona autónoma en mi puesto de trabajo y poder enseñar mi conocimiento a otros.
+
+:)
