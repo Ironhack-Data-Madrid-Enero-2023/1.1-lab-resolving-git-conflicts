@@ -1,7 +1,41 @@
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque viverra laoreet lorem et dapibus. Integer auctor dignissim egestas. Ut id purus neque. Pellentesque imperdiet lacus in libero laoreet, at tempus felis tristique. Cras fermentum erat a dui vulputate gravida. Nulla aliquet nisi interdum nulla pretium, ac vestibulum diam congue. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Phasellus lacus risus, sodales vitae viverra quis, maximus ac ipsum. Sed consequat viverra mattis. Curabitur iaculis varius mollis.
+# Who am I
 
-Ut porttitor iaculis tellus bibendum euismod. Morbi porta, ante nec tempus porta, felis mi faucibus lacus, sed tristique purus nunc sed est. Aenean pulvinar urna ut lacus interdum aliquam. Pellentesque sit amet magna accumsan, sagittis metus a, volutpat velit. Mauris vitae ex vehicula, posuere nisi sed, sagittis nunc. Ut scelerisque, mi non tristique tristique, mi enim luctus nunc, eu mattis sem quam auctor nunc. Donec lobortis tellus eget blandit ultricies. Vivamus euismod metus eget leo blandit, at malesuada magna efficitur. Praesent sodales faucibus mi, ullamcorper ultrices orci. Vivamus maximus malesuada massa, nec placerat leo feugiat vel. Nam vitae eleifend enim. Nullam interdum ipsum velit, vitae faucibus lectus blandit euismod.
+Carlos.
 
-Suspendisse ut malesuada ex. Nulla ultricies nisl et nisi rhoncus sollicitudin. Vestibulum maximus iaculis ligula, nec commodo nunc ullamcorper nec. Duis quis condimentum sapien. Cras vestibulum interdum felis eu auctor. Quisque semper, magna at dapibus faucibus, felis risus semper ligula, id aliquam lectus ligula vel nisi. In hac habitasse platea dictumst. Donec arcu sapien, suscipit ac dictum et, imperdiet id tortor. Maecenas ornare sodales interdum. Mauris dictum felis eu eros vestibulum cursus. Phasellus accumsan, turpis ut malesuada sollicitudin, augue leo venenatis ante, vel convallis tellus diam sit amet lacus. Aenean eu mauris eros. Praesent ante lacus, gravida sit amet tellus nec, laoreet ultrices lacus. Integer commodo semper vestibulum. Fusce felis massa, consectetur facilisis rutrum nec, pulvinar et nisi.
+* Where are you from?
 
-Morbi fermentum ultricies tortor, vehicula ultrices eros elementum a. Duis ornare aliquam facilisis. Proin aliquam tincidunt odio vitae dignissim. Sed malesuada lacinia massa, nec blandit urna auctor elementum. Duis auctor non tortor in consequat. Mauris id vestibulum risus. In eget erat sed lacus efficitur viverra sed eu est. Aliquam interdum consequat molestie. Aliquam metus nisi, blandit non semper ut, blandit vel leo. Cras dictum turpis erat, sed iaculis ligula facilisis dapibus. Aliquam posuere dignissim fermentum. Praesent at neque sit amet lectus ornare iaculis. Curabitur id urna quis lorem varius ultrices eu sit amet sapien. Curabitur maximus volutpat suscipit. Proin imperdiet elementum lacus a eleifend. Sed tempor lacus posuere diam vehicula iaculis.
+Alicante.
+
+* What do you do?
+
+I am currently studying at Ironhack.
+
+* Do you have previous experience with technology/data?
+
+One small course of html years ago.
+
+# Why am I here
+
+Because I want to learn new skills and be able to find a job in tech, a new field for me.
+
+* What has brought you to Ironhack?
+
+A cousin told me about it, and I realized that it fits my situation very well. I am 34 year old and it is the perfect way to change my life/job direction.
+
+* What knowledge/skills do you expect to learn in this bootcamp?
+
+I would like to know Data Science as much as it is possible.
+
+# What will I do after the bootcamp?
+
+* Which industry will you seek employment in?
+
+I don't now atm, but I would like to work in an ethic company.
+
+* What will your future role look like?
+
+I think is too soon to know, but what I liked the most from the Ironhack preword was the Python and coding part, so Data Engineering may be a very interesting path.
+
+* What is your career goal?
+
+My goal in life is to be happy, and I think to be happy in life you need to like your job. I hope Ironhack will help me in this regard.
