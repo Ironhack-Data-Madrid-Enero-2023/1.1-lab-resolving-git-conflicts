@@ -14,3 +14,9 @@
 * Buscaré empleo en una empresa donde pueda trabajar en equipo y aprender de mis compañeros con más experiencia
 * Me gustaría que, en el futuro, pueda trabajar en un puesto que me permite tratar de resolver los problemas medioambientales actuales
 * El objetivo de mi carrera es labrarme un futuro profesional que me guste y tenga buenas condiciones tanto laborales y de conciliación como económicas
+
+# ¿Que haré después del bootcamp?
+
+* Buscaré empleo en una empresa donde pueda trabajar en equipo y aprender de mis compañeros con más experiencia
+* Me gustaría que, en el futuro, pueda trabajar en un puesto que me permite tratar de resolver los problemas medioambientales actuales
+* El objetivo de mi carrera es labrarme un futuro profesional que me guste y tenga buenas condiciones tanto laborales y de conciliación como económicas
